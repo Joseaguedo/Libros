@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Reporte de Libros</h1>
+    <table>
+            <thead class="thead-dark">
+             <tr>   
+                 <th scope="col">ID Libro</th>
+                 <th scope="col">Autores</th>
+                 <th scope="col">Titulo</th>
+                 <th scope="col">Editorial</th>
+        </tr>
+      </thead>
+      <tbody>
+          <% reporte.forEach(function(libro) { %>
+            <tr>
+                <td>
+                    <%= libro.id %>
+                </td>
+                <td>
+                    <%= libro.autores %>
+                </td>
+                <td>
+                    <%= libro.titulo %>
+                </td>
+                <td>
+                    <%= libro.editorial %>
+                </td>
+            </tr>
+            <% }); %>
+      </tbody>
+    </table>
+</body>
+</html>
