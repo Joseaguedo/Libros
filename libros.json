@@ -1,0 +1,118 @@
+[
+    {
+        "id": "1",
+        "titulo": "Tres reinos",
+        "autores": "Luo Guanzhong",
+        "editorial": "literatura"
+    },
+    {
+        "id": "2",
+        "titulo": "Margen de Agua",
+        "autores": "Shi Nai'an",
+        "editorial": "literatura"
+    },
+    {
+        "id": "3",
+        "titulo": "Viaje al Oeste",
+        "autores": "Wu Chengen",
+        "editorial": "literatura"
+    },
+    {
+        "id": "4",
+        "titulo": "Un sueño-mansiones",
+        "autores": "Cao Xueqin",
+        "editorial": "literatura"
+ 
+    },
+    {
+        "titulo": "Tianlong Babu",
+        "autores": "Jin Yong",
+        "editorial": "literatura",
+        "id": 5
+    },
+    {
+        "titulo": "La merienda-parque",
+        "autores": "Pablo y Cecilia ",
+        "editorial": "Narval editores",
+        "id": 6
+    },
+    {
+        "titulo": "Saltamontes-viaje",
+        "autores": "Arnold Lobel",
+        "editorial": "Kalandraka",
+        "id": 8
+    },
+    {
+        "titulo": "Empanada de mamut",
+        "autores": "Eanne Willis-Tony",
+        "editorial": "Libros del Zorro Rojo",
+        "id": 9
+    },
+    { 
+        "titulo": "Los Bandídez",
+        "autores": "Siri Kolu",
+        "editorial": "Nórdica",
+        "id": 10
+    },
+    { 
+        "titulo": "Supersorda",
+        "autores": "Cece Bell",
+        "editorial": "Maeva",
+        "id": 11
+    },
+    { 
+        "titulo": "El rey del cielo",
+        "autores": "Siri Kolu",
+        "editorial": "Nórdica",
+        "id": 12
+    },
+    { 
+        "titulo": "Héroes",
+        "autores": "Jutta Ritcher",
+        "editorial": " Lóguez",
+        "id": 13
+    },    { 
+        "titulo": "Sweet Sixteen",
+        "autores": "Annelise Heurtier",
+        "editorial": "Milenio",
+        "id": 14
+    },
+    { 
+        "titulo": "Waterloo-Trafalgar",
+        "autores": "Olivier Tallec",
+        "editorial": "Adriana editora",
+        "id": 15
+    },
+    { 
+        "titulo": "Tristán encoge",
+        "autores": "Siri Kolu",
+        "editorial": "Nórdica",
+        "id": 16
+    },
+    { 
+        "titulo": "Los Bandídez",
+        "autores": "Parry y Edward",
+        "editorial": "Blackie Books",
+        "id": 17
+    },
+    { 
+        "titulo": "La Hojarasca",
+        "autores": "Garcia Marquez",
+        "editorial": "Debolsillo",
+        "id": 18
+    },
+    { 
+        "titulo": "Inferno",
+        "autores": "Dan Brown",
+        "editorial": "Planeta",
+        "id": 19
+    },
+    { 
+        "titulo": "Tres Deseos",
+        "autores": "Jackson pearce",
+        "editorial": "Molino",
+        "id": 20
+    }
+
+]
+  
